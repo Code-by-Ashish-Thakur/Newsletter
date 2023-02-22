@@ -11,19 +11,20 @@ body {
   background-color: #f5f5f5;
 }
 form img {
-  border-radius: 5%;
+  border-radius: 6%;
 }
 .form-signin {
   max-width: 330px;
   padding: 15px;
 }
 
+
 .form-signin .form-floating:focus-within {
   z-index: 2;
 }
 
 .top {
-  margin-bottom: 5px;
+  margin-bottom: 6px;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
@@ -35,7 +36,10 @@ form img {
 }
 
 .form-signin input[type="password"] {
-  margin-bottom: 15px;
+  margin-bottom: 55px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
+}
+#as{
+  margin-top: 15%;
 }
